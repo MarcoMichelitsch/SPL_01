@@ -4,9 +4,9 @@
 
 ## Markdown-Übungen
 
-* Punkt 1
-* Punkt 2
-* Punkt 3
+* Übungen
+* Überschriften
+* Code Snippets
 
 [HTL](https://www.htl-leoben.at)
 
