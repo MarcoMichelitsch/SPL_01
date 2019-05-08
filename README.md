@@ -16,3 +16,10 @@ String ordinaryString = "Hello World!"
 System.out.println(ordinaryString)
 }
 ```
+
+## Aufgaben für Heute:
+
+- [ ] Git Grundlagen
+- [ ] Git Übungen
+- [ ] Git in der Konsole
+- [ ] Java Coding-Dojo
