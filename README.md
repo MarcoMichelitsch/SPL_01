@@ -22,4 +22,4 @@ System.out.println(ordinaryString)
 - [ ] Git Grundlagen
 - [ ] Git Übungen
 - [ ] Git in der Konsole
-- [ ] Java Coding-Dojo
+- [X] Java Coding-Dojo
